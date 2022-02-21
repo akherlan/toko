@@ -5,8 +5,9 @@ description: Sepatu gunung mid-cut dengan pengalaman mendaki setinggi 3.137 mdpl
 type: featured
 image: "/images/tarantula.jpg"
 categories:
-- Stuff
+- Fashion
 tags:
+- Shoes
 - Footwear
 
 ---
