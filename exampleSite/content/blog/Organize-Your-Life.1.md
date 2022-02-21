@@ -1,16 +1,13 @@
 ---
-title: Eiger Tarantula 2.0 - 38
+title: Eiger Tarantula 2.0 - Size 38
 date: 2022-02-21T10:46:00+00:00
 description: Sepatu gunung mid-cut dengan pengalaman mendaki setinggi 3.137 mdpl.
 type: featured
-image: images/featured-post/post-2.jpg
+image: "/images/banner-img.png"
 categories:
 - Stuff
-- Philosophy
 tags:
 - Footwear
-- Philosophy
-- Photos
 
 ---
 Sepatu gunung mid-cut dengan pengalaman mendaki setinggi 3.137 mdpl (Merbabu)
